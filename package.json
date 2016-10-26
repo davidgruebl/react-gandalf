@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "author": "Fractal contact@wearefractal.com (http://wearefractal.com)",
   "dependencies": {
-    "lodash.defaults": "^3.1.2",
+    "lodash.defaults": "^4.2.0",
     "react-multistep": "davidgruebl/react-multistep"
   },
   "devDependencies": {
@@ -13,7 +13,7 @@
     "jshint-stylish": "^2.0.0",
     "mochify": "dylanfm/mochify.js",
     "mochify-istanbul": "^2.1.1",
-    "should": "^7.0.0"
+    "should": "^11.1.1"
   },
   "engines": {
     "node": ">= 0.10"
